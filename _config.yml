@@ -1,0 +1,23 @@
+name: tildefields
+favicon: null
+layout_spectrum: 0.25676991790533066
+typography_spectrum: 0.31532479473389685
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9497566956561059
+  lightness: 0.7527625299990177
+  saturation: 0.8257870054803789
+  rhythmicContrast: 0.15210018306970596
+purpose: []
