@@ -1,7 +1,7 @@
 name: tildefields
 favicon: null
-layout_spectrum: 0.25676991790533066
-typography_spectrum: 0.31532479473389685
+layout_spectrum: 1
+typography_spectrum: 0.65391
 cta:
   domain: null
   bucket: null
@@ -15,7 +15,12 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#fefefe'
+    - '#0e040c'
+    - '#79708b'
+    - '#b0abac'
+    - '#ae6000'
   brandStrength: 0.9497566956561059
   lightness: 0.7527625299990177
   saturation: 0.8257870054803789
