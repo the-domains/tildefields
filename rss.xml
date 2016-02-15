@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[sow the past, reap the future]]></title>
+        <description><![CDATA[sow the past, reap the future]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 15 Feb 2016 04:38:40 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mission Statement]]></title>
+            <description><![CDATA[<article><h1>Mission Statement</h1><p>No definite direction, only a salt rock blast of things until something congeals into the first phase of definitive structure.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d2da73196e2e7e9790fec1327c99ec08f7bcc6e1.jpg"></article>]]></description>
+            <link>undefinedmission-statement/index.html</link>
+            <guid isPermaLink="false">0199040d-c65a-4df5-bcd3-2dfc97d56ca0</guid>
+            <pubDate>Mon, 15 Feb 2016 04:38:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
